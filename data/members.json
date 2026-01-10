@@ -512,8 +512,10 @@
       "logo": "/images/logos/frinkipedia.png",
       "url": "https://fr.splatoonwiki.org/wiki/$1",
       "mainpage": "Accueil",
+      "bluesky": "https://bsky.app/profile/splatoonwiki-fr.bsky.social",
       "discord": "https://discord.gg/f3ArbHcYMF",
-      "twitter": "https://twitter.com/splatoonwiki_FR"
+      "twitter": "https://twitter.com/splatoonwiki_FR",
+      "youtube": "https://www.youtube.com/@Inkip%C3%A9diaFR"
     },
     {
       "id": "wikikirbyfr",
@@ -522,7 +524,7 @@
       "logo": "/images/logos/wikikirbyfr.png",
       "url": "https://wiki-kirby.fr/wiki/$1",
       "mainpage": "Accueil",
-      "discord": "https://discord.com/invite/dkxyXS75"
+      "discord": "https://discord.com/invite/PQRbDjR9"
     },
     {
       "id": "wikimariofr",
